@@ -7,6 +7,6 @@ K-Nearest Neighbor Classifier - 92.98% <br/>
 Naive Bayes Classifier - 94.73% <br/>
 Decision Tree Classifier - 95.61% <br/>
 Random Forest Classifier - 96.49% <br/>
-##Result
+## Result
 Random Forest Classifier predicts with the best accuracy among all. So we save this model in a pickle file and deploys using flask with Heroku.
 
